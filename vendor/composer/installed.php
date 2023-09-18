@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'user/composertest',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'huangchengyu/composertest',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'a56c072bd2636a36abcc2a55c72c28e1636db58d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'user/composertest' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'huangchengyu/composertest' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'a56c072bd2636a36abcc2a55c72c28e1636db58d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
