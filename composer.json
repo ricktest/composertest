@@ -4,6 +4,9 @@
     "type": "library",
     "license": "proprietary",
     "minimum-stability": "dev",
+    "require": {
+        "huangchengyu/composertest": "*"
+    },
     "autoload": {
         "psr-4": {
            "game\\": "src/game"
