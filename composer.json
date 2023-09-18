@@ -1,0 +1,14 @@
+
+{
+    "name": "user/composertest",
+    "description": "demo",
+    "type": "library",
+    "license": "MT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+           "game\\": "src/game"
+        }
+    }
+}
