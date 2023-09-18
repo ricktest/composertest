@@ -3,7 +3,7 @@
     "name": "huangchengyu/composertest",
     "description": "demo",
     "type": "library",
-    "license": "MT",
+    "license": "proprietary",
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
