@@ -6,8 +6,7 @@
     "license": "proprietary",
     "minimum-stability": "dev",
     "require": {
-        
-        "huangchengyu/composertest": "1.0.0"
+        "huangchengyu/composertest": "dev-master"
     },
     "autoload": {
         "psr-4": {
