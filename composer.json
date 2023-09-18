@@ -2,7 +2,7 @@
     "name": "huangchengyu/composertest",
     "description": "demo",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "minimum-stability": "dev",
    
     "autoload": {
