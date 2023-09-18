@@ -7,8 +7,7 @@
     "minimum-stability": "dev",
     "require": {
         
-        "other/package": "1.0.0",
-        "yourself/package": "dev-main as 1.0.0"
+        "huangchengyu/composertest": "1.0.0"
     },
     "autoload": {
         "psr-4": {
