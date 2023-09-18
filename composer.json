@@ -4,7 +4,9 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-   
+    "require": {
+        "huangchengyu/composertest": "^1.0" 
+    },
     "autoload": {
         "psr-4": {
            "game\\": "src/game"
